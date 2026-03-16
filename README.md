@@ -14,4 +14,11 @@ Un bot de Telegram interactivo diseñado como proyecto de demostración del uso 
 
 ## 📸 Galería y Demostración
 
+###### Base de datos
+<img width="1508" height="530" alt="image" src="https://github.com/user-attachments/assets/d1620135-14a1-42bf-adb8-3dfd2f406f79" />
 
+
+###### Interfaz en telegram
+
+
+<img width="720" height="1425" alt="image" src="https://github.com/user-attachments/assets/1e398acc-aa7f-46a6-a0b9-534ef3744e55" />
